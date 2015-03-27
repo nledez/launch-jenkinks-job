@@ -11,3 +11,7 @@ vi /etc/launch-jenkinks.yml
 
 pip install PyYAML jenkinsapi
 ```
+
+## Contributions
+
+Issues & pull requests are welcome :)
