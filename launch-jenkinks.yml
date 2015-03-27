@@ -1,0 +1,3 @@
+jenkins_url: https://ci.example.com/
+jenkins_user: jenkinuser
+jenkins_token: asdfasdfasdfasdfasdf
